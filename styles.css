@@ -1,10 +1,10 @@
 body {
-	background-color: #08605F;
+	background-color: #605856;
 }
 
 .one {
 
-	background: #177E89;
+	background: #1C6E8C;
 	text-align: center;
 	border-radius: 100px;
 	padding: 15px;
@@ -13,7 +13,7 @@ body {
 
 .two{
 	text-align: center;
-	background: #A2AD59;
+	background: #274156;
 	border-radius: 100px;
 	height: 1200px;
 	padding-top: 15px;
@@ -22,11 +22,11 @@ body {
 }
 
 h2 {
-	color:#CC6600;
+	color:#D0CCD0;
 }
 
 h1 {
 	font-family: "Arial Black", Gadget, sans-serif;
-	color:#CC6600;
+	color:#D0CCD0;
 
 }
