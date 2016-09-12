@@ -32,7 +32,7 @@ body {
 
 .four{
 	position: relative; 
-   	width: 100%; /* for IE 6 */
+   	 /* for IE 6 */
 	text-align: center;
 	background: #274156;
 	border-radius: 100px;
@@ -49,6 +49,7 @@ h4 {
    top: 0px; 
    left: 0; 
    font-size: 200%;
+   width: 100%;
 }
 
 h2 {
