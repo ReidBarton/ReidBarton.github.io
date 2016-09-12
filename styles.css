@@ -31,6 +31,8 @@ body {
 }
 
 .four{
+	position: relative; 
+   	width: 100%; /* for IE 6 */
 	text-align: center;
 	background: #274156;
 	border-radius: 100px;
@@ -38,6 +40,14 @@ body {
 	padding-top: 15px;
 	padding-left: 45px;
 	padding-right: 45px;
+}
+
+
+h4 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
 }
 
 h2 {
