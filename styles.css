@@ -9,17 +9,17 @@ body {
 	border-radius: 100px;
 	padding: 15px;
 	height: 500px;
-	width:1000px;
+	width:1200px;
 }
 
 .two{
 	position: relative; 
-   	right: 15px;
+   	left: 400px;
 	text-align: center;
 	background: #274156;
 	border-radius: 100px;
 	height: 1000px;
-	width:1000px;
+	width:1200px;
 	padding-top: 15px;
 	padding-left: 45px;
 	padding-right: 45px;
@@ -32,13 +32,13 @@ body {
 	border-radius: 100px;
 	padding: 15px;
 	height: 450px;
-	width: 1000px;
+	width: 1200px;
 	
 }
 
 .four{
 	position: relative; 
-   	right: 15px;
+   	left: 400px;
 	position: relative; 
    	 /* for IE 6 */
 	text-align: center;
