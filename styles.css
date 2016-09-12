@@ -15,7 +15,7 @@ body {
 	text-align: center;
 	background: #274156;
 	border-radius: 100px;
-	height: 900px;
+	height: 1000px;
 	padding-top: 15px;
 	padding-left: 45px;
 	padding-right: 45px;
@@ -28,6 +28,16 @@ body {
 	border-radius: 100px;
 	padding: 15px;
 	height: 800px;
+}
+
+.four{
+	text-align: center;
+	background: #274156;
+	border-radius: 100px;
+	height: 400px;
+	padding-top: 15px;
+	padding-left: 45px;
+	padding-right: 45px;
 }
 
 h2 {
