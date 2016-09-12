@@ -45,9 +45,10 @@ body {
 
 h4 { 
    position: absolute; 
-   top: 200px; 
+   top: 30px; 
    left: 0; 
    width: 100%; 
+   font-size: 200%;
 }
 
 h2 {
@@ -60,7 +61,7 @@ h1 {
 }
 h3{
 	color: #D0CCD0;
-	font-size: 90%;
+	
 }
 
 .ImageBorder
