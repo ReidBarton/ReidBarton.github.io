@@ -13,6 +13,9 @@ body {
 }
 
 .two{
+	position: absolute; 
+	top: 0px; 
+   	left: 100px;
 	text-align: center;
 	background: #274156;
 	border-radius: 100px;
