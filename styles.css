@@ -13,13 +13,14 @@ body {
 }
 
 .two{
-	position: absolute; 
+	position: relative; 
 	top: 0px; 
    	left: 100px;
 	text-align: center;
 	background: #274156;
 	border-radius: 100px;
 	height: 1000px;
+	width:1000px;
 	padding-top: 15px;
 	padding-left: 45px;
 	padding-right: 45px;
