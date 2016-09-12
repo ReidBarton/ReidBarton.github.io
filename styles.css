@@ -14,7 +14,7 @@ body {
 
 .two{
 	position: relative; 
-   	left: 400px;
+   	left: 50px;
 	text-align: center;
 	background: #274156;
 	border-radius: 100px;
@@ -38,7 +38,7 @@ body {
 
 .four{
 	position: relative; 
-   	left: 400px;
+   	left: 50px;
 	position: relative; 
    	 /* for IE 6 */
 	text-align: center;
