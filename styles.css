@@ -42,4 +42,9 @@ h3{
 	color: #D0CCD0;
 	font-size: 90%;
 }
+
+.ImageBorder
+{
+    border-width: 30px;
+    border-color: #D0CCD0;
 }
