@@ -46,9 +46,8 @@ body {
 h4 { 
    font-family: "Arial Black", Gadget, sans-serif;
    position: absolute; 
-   top: 20px; 
+   top: 0px; 
    left: 0; 
-   width: 100%; 
    font-size: 200%;
 }
 
@@ -63,10 +62,4 @@ h1 {
 h3{
 	color: #D0CCD0;
 	
-}
-
-.ImageBorder
-{
-    border-radius: 15px;
-    color: #D0CCD0;
 }
