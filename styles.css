@@ -21,9 +21,20 @@ body {
 	padding-right: 45px;
 }
 
-.three {
-
+.three{
+		text-align: center;
 	background: #1C6E8C;
+	border-radius: 100px;
+	height: 1000px;
+	padding-top: 15px;
+	padding-left: 45px;
+	padding-right: 45px;
+}
+}
+
+.four {
+
+	background: #274156;
 	text-align: center;
 	border-radius: 100px;
 	padding: 15px;
@@ -31,10 +42,10 @@ body {
 	
 }
 
-.four{
+.five{
 	position: relative; 
 	text-align: center;
-	background: #274156;
+	background: #1C6E8C;
 	border-radius: 100px;
 	height: 450px;
 	padding-top: 15px;
