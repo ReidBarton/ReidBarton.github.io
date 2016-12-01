@@ -79,7 +79,7 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #D0CCD0;
+    background-color: #1C6E8C;
 }
 
 u1.topnav li {
@@ -90,7 +90,7 @@ ul.topnav li a {
 	display: block;
 	color: white;
 	text-align: center;
-	padding: 20px 20px;
+	padding: 12px 14px;
 	text-decoration: none;
 	position: fixed;
 }
