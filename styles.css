@@ -82,14 +82,14 @@ ul.topnav {
     background-color: #D0CCD0;
 }
 
-ul.topnav li {float: left;}
-
 ul.topnav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 20px 20px;
-    text-decoration: none;
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
+	position: fixed;
 }
 
 ul.topnav li a:hover {
