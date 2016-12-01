@@ -74,31 +74,31 @@ h1 {
 }
 h3 {color: #D0CCD0;}
 
-ul.topnav {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #1C6E8C;
+    position: fixed;
+    top: 0;
+	width: 100%;
+    background-color: #1C6E8C;  
 }
 
-ul.topnav li {
-	float:left;
+li {
+	float:left; 
 }	
 
-ul.topnav li a {
+li a {
 	display: block;
 	color: white;
 	text-align: center;
 	padding: 12px 14px;
 	text-decoration: none;
-	position: fixed;
-	width: 100%;
-	top: 0;
 }
 
-ul.topnav li a:hover {
-	background-color: #123;
+li a:hover {
+	background-color: #09367c;
 }
 
 
