@@ -75,14 +75,14 @@ h1 {
 h3 {color: #D0CCD0;}
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
 	width: 100%;
-    background-color: #1C6E8C;  
+	background-color: #1C6E8C;  
 }
 
 li {
@@ -95,6 +95,7 @@ li a {
 	text-align: center;
 	padding: 12px 14px;
 	text-decoration: none;
+	font-size: 150%;
 }
 
 li a:hover {
