@@ -82,8 +82,11 @@ ul.topnav {
     background-color: #D0CCD0;
 }
 
+u1.topnav li {
+	float:left;
+}	
+
 ul.topnav li a {
-	float: left;
 	display: block;
 	color: white;
 	text-align: center;
@@ -93,7 +96,7 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover {
-	background-color: #111;
+	background-color: #123;
 }
 
 
