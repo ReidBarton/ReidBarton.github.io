@@ -93,9 +93,9 @@ li a {
 	display: block;
 	color: white;
 	text-align: center;
-	padding: 12px 14px;
+	padding: 12px 50px;
 	text-decoration: none;
-	font-size: 250%;
+	font-size: 200%;
 }
 
 li a:hover {
