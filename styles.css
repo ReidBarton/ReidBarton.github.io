@@ -82,7 +82,7 @@ ul.topnav {
     background-color: #D0CCD0;
 }
 
-ul.topnav li {float: center;}
+ul.topnav li {float: left;}
 
 ul.topnav li a {
     display: block;
