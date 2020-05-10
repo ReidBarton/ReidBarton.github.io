@@ -1,2 +1,2 @@
 # ReidBarton.github.io
-Personal Website written summer after senior year of high school. Needs to be redone.
+Personal Website for Reid Barton
