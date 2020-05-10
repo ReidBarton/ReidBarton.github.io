@@ -67,3 +67,27 @@
   
   })(jQuery); // End of use strict
   
+
+
+  // function SubForm(e){
+  //   var url = "https://formspree.io/mgenvoqk";
+  //   var request = new XMLHttpRequest();
+  //   request.open('POST', url, true);
+  //   request.onload = function() { // request successful
+  //   // we can use server response to our request now
+  //     console.log(request.responseText);
+  //     alert("success")
+  //   };
+
+  //   request.onerror = function() {
+  //     // request failed
+  //     console.log(request);
+
+  //     alert("fail")
+  //   };
+
+  //   request.send(new FormData(e.target)); // create FormData from form that triggered event
+  //   // return false;
+  //   e.preventDefault();
+
+  // }
